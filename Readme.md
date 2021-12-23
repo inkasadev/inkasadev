@@ -3,9 +3,9 @@
 ## Full Stack Software Developer e criador de conteúdo de programação
 
 - 🔭 Eu atualmente trabalho no [Canal Inkasa Dev][youtube]!
-- 🌱 Sou entusiasta de tecnologias web
+- 🌱 Sou entusiasta de Tecnologias Web
 - 🥅 Objetivos para 2022: Criar no mínimo 8 projetos para o meu canal do youtube
-- ⚡ Fun fact: Eu AMO psitacídeos e criar projetos criativos com código.
+- ⚡ Fun fact: Eu amo psitacídeos e criar projetos criativos com código.
 
 <div style="display: inline-block"><br>
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -28,6 +28,9 @@
     </a>
     <a href="https://www.linkedin.com/in/phillipe-martins-b75b77228/" target="_blank">
         <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+    </a>
+    <a href="https://play.google.com/store/apps/developer?id=Inkasa+Studios" target="_blank">
+        <img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" target="_blank">
     </a> 
 </div>
 
@@ -41,11 +44,39 @@
 
 ---
 
-Clique nos botões acima para emitir um novo comando de gamepad, atualize esta página para ver a tela do jogo mais recente.
+O seu objetivo é eliminar os quadrados coloridos de cada fase. Clique nos botões acima para emitir um novo comando de gamepad, atualize esta página para ver a tela do jogo mais recente.
 
 <details><summary>Sobre este jogo</summary>
   
 Essa seção foi desenvolvida utilizando alguns conhecimentos que eu adquiri ao longo da minha jornada, onde trabalhei por alguns anos como desenvolvedor de jogos, desenvolvedor Full Stack e também com desenvolvimento de game engines.
+</details>
+
+<details><summary>Instruções</summary>
+<div style="display: flex; align-items: center; gap: 10px">
+<img src="assets/start.png"> Para passar de fase, você deve terminar a partida no quadrado de Start, que é onde toda fase começa também.
+</div>
+<div style="display: flex; align-items: center; gap: 10px">
+<img src="assets/char.png"> Esse é você.
+</div>
+<div style="display: flex; align-items: center; gap: 10px">
+<img src="assets/red.png"> Você pode passar 1 vez nesse quadrado.
+</div>
+<div style="display: flex; align-items: center; gap: 10px">
+<img src="assets/yellow.png"> Você pode passar 2 vezes nesse quadrado.
+</div>
+<div style="display: flex; align-items: center; gap: 10px">
+<img src="assets/green.png"> Você pode passar 3 vezes nesse quadrado.
+</div>
+<div style="display: flex; align-items: center; gap: 10px">
+<img src="assets/inverse.png"> Move o personagem na direção oposta à que você quer ir.
+</div>
+<div style="display: flex; align-items: center; gap: 10px">
+<img src="assets/leap.png"> Te empurra 2 quadrados em uma certa direção.
+</div>
+<div style="display: flex; align-items: center; gap: 10px">
+<img src="assets/teleport.png"> Move o personagem para o outro teleporte na tela (são sempre dois na fase).
+</div>  
+
 </details>
 
 <details><summary>Estatísticas deste jogo até agora</summary>
