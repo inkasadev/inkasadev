@@ -37,13 +37,13 @@
 ---
 
 ### 🎮 Vamos jogar?
-O seu objetivo é eliminar os quadrados coloridos de cada fase. Clique nos botões acima para emitir um novo comando de gamepad, atualize esta página para ver a tela do jogo mais recente.<br /><br />
+O seu objetivo é eliminar os quadrados coloridos de cada fase. Clique nos botões abaixo para emitir um novo comando de gamepad, atualize esta página para ver a tela do jogo mais recente.<br /><br />
 <img src="https://git-readme-game.herokuapp.com/api/v1/game/image" width="400"/> 
 <div style="display: inline-block">
 <img src="assets/blank.png" width="30"/><a href="https://git-readme-game.herokuapp.com/api/v1/game/controls?id=0"><img src="assets/up.png" width="30"/></a><br /><a href="https://git-readme-game.herokuapp.com/api/v1/game/controls?id=3"><img src="assets/left.png" width="30"/></a><img src="assets/blank.png" width="30"/><a href="https://git-readme-game.herokuapp.com/api/v1/game/controls?id=1"><img src="assets/right.png" width="30"/></a><br /><img src="assets/blank.png" width="30"/><a href="https://git-readme-game.herokuapp.com/api/v1/game/controls?id=2"><img src="assets/down.png" width="30"/></a>
 </div>
 
----
+<br />
 
 <details><summary>Sobre este jogo</summary>
   
@@ -81,6 +81,17 @@ Essa seção foi desenvolvida utilizando alguns conhecimentos que eu adquiri ao 
 <details><summary>Estatísticas deste jogo até agora</summary>
   <img src="https://git-readme-game.herokuapp.com/api/v1/game/status" width="200" />
 </details>
+<!--
+<details><summary>Hall da Fama</summary>
+    <ul>
+        <li><details><summary>Jogo Base (25 fases)</summary>
+        <ol>
+            <li><a href="#">Teste</a></li>
+        </ol>
+        </details></li>
+    </ul>
+</details>
+-->
 
 ----
 
