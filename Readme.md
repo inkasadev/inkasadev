@@ -36,7 +36,7 @@
 ### 🎮 Vamos jogar?
 <img src="https://git-readme-game.herokuapp.com/api/v1/game/image" width="400"/> 
 <div style="display: inline-block"><br />
-<img src="assets/blank.png" width="30"/><a href="https://git-readme-game.herokuapp.com/api/v1/game/controls/up"><img src="assets/up.png" width="30"/></a><br /><a href="https://git-readme-game.herokuapp.com/api/v1/game/controls/left"><img src="assets/left.png" width="30"/></a><img src="assets/blank.png" width="30"/><a href="https://git-readme-game.herokuapp.com/api/v1/game/controls/right"><img src="assets/right.png" width="30"/></a><br /><img src="assets/blank.png" width="30"/><a href="https://git-readme-game.herokuapp.com/api/v1/game/controls/down"><img src="assets/down.png" width="30"/></a>
+<img src="assets/blank.png" width="30"/><a href="https://git-readme-game.herokuapp.com/api/v1/game/controls?id=0"><img src="assets/up.png" width="30"/></a><br /><a href="https://git-readme-game.herokuapp.com/api/v1/game/controls?id=3"><img src="assets/left.png" width="30"/></a><img src="assets/blank.png" width="30"/><a href="https://git-readme-game.herokuapp.com/api/v1/game/controls?id=1"><img src="assets/right.png" width="30"/></a><br /><img src="assets/blank.png" width="30"/><a href="https://git-readme-game.herokuapp.com/api/v1/game/controls?id=2"><img src="assets/down.png" width="30"/></a>
 </div>
 
 ---
