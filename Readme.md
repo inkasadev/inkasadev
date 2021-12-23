@@ -4,7 +4,7 @@
 
 - 🔭 Eu atualmente trabalho no [Canal Inkasa Dev][youtube]!
 - 🌱 Sou entusiasta de Tecnologias Web
-- 🥅 Objetivos para 2022: Criar no mínimo 8 projetos para o meu canal do youtube
+- 🥅 Objetivos para 2022: Voltar para o mercado como dev ou professor de Frontend e criar no mínimo 8 projetos para o meu canal do youtube.
 - ⚡ Fun fact: Eu amo psitacídeos e criar projetos criativos com código.
 
 <div style="display: inline-block"><br>
@@ -95,6 +95,6 @@ Essa seção foi desenvolvida utilizando alguns conhecimentos que eu adquiri ao 
 - [Como fazer um projeto Javascript (para iniciantes) | Placa 100 mil inscritos](https://github.com/inkasadev/placa100k-starter-files)
 <!-- YOUTUBE:END -->
 
-➡️ [mais vídeos...](https://www.youtube.com/InkasaDev/videos)
+➡️ [mais projetos...](https://www.youtube.com/c/InkasaDev/playlists)
 
 [youtube]: https://youtube.com/inkasadev/videos
