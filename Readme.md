@@ -2,19 +2,19 @@
 
 ## Full Stack Software Developer e criador de conteúdo de programação
 
-- 🔭 Eu atualmente trabalho no [Canal Inkasa Dev][youtube]!
-- 🌱 Sou entusiasta de Tecnologias Web
+- 💻 Eu atualmente trabalho no [Canal Inkasa Dev][youtube]!
+- 📚 Sou entusiasta de Tecnologias Web
 - 🥅 Objetivos para 2022: Voltar para o mercado como dev ou professor de Frontend e criar no mínimo 8 projetos para o meu canal do youtube.
-- ⚡ Fun fact: Eu amo psitacídeos e criar projetos criativos com código.
+- 👨 Fun fact: Eu amo psitacídeos e criar projetos criativos com código.
 
 <div style="display: inline-block"><br>
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg">
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
 </div>
 
 <br />
@@ -29,9 +29,12 @@
     <a href="https://www.linkedin.com/in/phillipe-martins-b75b77228/" target="_blank">
         <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
     </a>
+    <a href="https://t.me/inkasadev" target="_blank">
+        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank">
+    </a>
     <a href="https://play.google.com/store/apps/developer?id=Inkasa+Studios" target="_blank">
         <img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" target="_blank">
-    </a> 
+    </a>
 </div>
 
 ---
@@ -79,7 +82,7 @@ Essa seção foi desenvolvida utilizando alguns conhecimentos que eu adquiri ao 
 </details>
 
 <details><summary>Estatísticas deste jogo até agora</summary>
-  <img src="https://git-readme-game.herokuapp.com/api/v1/game/status" width="200" />
+  <img src="https://git-readme-game.herokuapp.com/api/v1/game/status" width="400" />
 </details>
 <!--
 <details><summary>Hall da Fama</summary>
