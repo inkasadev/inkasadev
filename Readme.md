@@ -82,19 +82,23 @@ Essa seção foi desenvolvida utilizando alguns conhecimentos que eu adquiri ao 
 </details>
 
 <details><summary>Estatísticas deste jogo até agora</summary>
-  <img src="https://git-readme-game.herokuapp.com/api/v1/game/stats" width="400" />
+  <img src="https://git-readme-game.herokuapp.com/api/v1/game/status" width="400" />
 </details>
-<!--
+
 <details><summary>Hall da Fama</summary>
-    <ul>
-        <li><details><summary>Jogo Base (25 fases)</summary>
-        <ol>
-            <li><a href="#">Teste</a></li>
-        </ol>
-        </details></li>
-    </ul>
+Lista de usuários que concluiram o jogo acompanhado do número de fases que o jogo tinha naquele momento.
+    <table>
+        <tr>
+            <th>Usuário</th>
+            <th>Versão do jogo</th>
+        </tr>
+        <tr>
+            <td><a href="https://github.com/vitor-mat">vitor-mat</a></td>
+            <td>25 fases</td>
+        </tr>
+    </table>
 </details>
--->
+
 
 ----
 
