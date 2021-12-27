@@ -82,7 +82,7 @@ Essa seção foi desenvolvida utilizando alguns conhecimentos que eu adquiri ao 
 </details>
 
 <details><summary>Estatísticas deste jogo até agora</summary>
-  <img src="https://git-readme-game.herokuapp.com/api/v1/game/status" width="400" />
+  <img src="https://git-readme-game.herokuapp.com/api/v1/game/stats" width="400" />
 </details>
 <!--
 <details><summary>Hall da Fama</summary>
