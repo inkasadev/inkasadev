@@ -1,6 +1,6 @@
-### Oi, eu sou o Phillipe Martins - aka [Inkasa Dev][youtube] 👋 
+### Oi, eu sou o Phillipe Martins - aka [Inkasa Dev][youtube] 👋
 
-## Full Stack Software Developer e criador de conteúdo de programação
+## Frontend Developer e criador de conteúdo de programação
 
 - 💻 Eu atualmente trabalho no [Canal Inkasa Dev][youtube]!
 - 📚 Sou entusiasta de Tecnologias Web
@@ -40,8 +40,10 @@
 ---
 
 ### 🎮 Vamos jogar?
+
 O seu objetivo é eliminar os quadrados coloridos de cada fase. Clique nos botões abaixo para emitir um novo comando de gamepad, atualize esta página para ver a tela do jogo mais recente.<br /><br />
-<img src="https://git-readme-game.herokuapp.com/api/v1/game/image" width="400"/> 
+<img src="https://git-readme-game.herokuapp.com/api/v1/game/image" width="400"/>
+
 <div style="display: inline-block">
 <img src="assets/blank.png" width="30"/><a href="https://git-readme-game.herokuapp.com/api/v1/game/controls?id=0"><img src="assets/up.png" width="30"/></a><br /><a href="https://git-readme-game.herokuapp.com/api/v1/game/controls?id=3"><img src="assets/left.png" width="30"/></a><img src="assets/blank.png" width="30"/><a href="https://git-readme-game.herokuapp.com/api/v1/game/controls?id=1"><img src="assets/right.png" width="30"/></a><br /><img src="assets/blank.png" width="30"/><a href="https://git-readme-game.herokuapp.com/api/v1/game/controls?id=2"><img src="assets/down.png" width="30"/></a>
 </div>
@@ -77,7 +79,7 @@ Essa seção foi desenvolvida utilizando alguns conhecimentos que eu adquiri ao 
 </div>
 <div style="display: flex; align-items: center; gap: 10px">
 <img src="assets/teleport.png"> Move o personagem para o outro teleporte na tela (são sempre dois na fase).
-</div>  
+</div>
 
 </details>
 
@@ -99,12 +101,12 @@ Lista de usuários que concluiram o jogo acompanhado do número de fases que o j
     </table>
 </details>
 
-
-----
+---
 
 ### 📺 Projetos mais recentes do YouTube
 
 <!-- YOUTUBE:START -->
+
 - [Como fazer um site de notícias em HTML CSS Javascript | Site Clarim Diário](https://github.com/inkasadev/clarim-diario-starter-files)
 - [Como fazer um jogo da velha em Javascript COMPLETO em 45 Minutos](https://github.com/inkasadev/jogo-da-velha-starter-files)
 - [Como fazer um DASHBOARD HTML CSS JAVASCRIPT | Dashboard Covid Brasil](https://github.com/inkasadev/covid-brasil-starter-files)
