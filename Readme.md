@@ -2,9 +2,8 @@
 
 ## Frontend Developer e criador de conteúdo de programação
 
-- 💻 Eu atualmente trabalho no [Canal Inkasa Dev][youtube]!
+- 💻 Atualmente trabalho no [Pravaler](https://www.pravaler.com.br/)
 - 📚 Sou entusiasta de Tecnologias Web
-- 🥅 Objetivos para 2022: Voltar para o mercado como dev ou professor de Frontend e criar no mínimo 8 projetos para o meu canal do youtube.
 - 👨 Fun fact: Eu amo psitacídeos e criar projetos criativos com código.
 
 <div style="display: inline-block"><br>
