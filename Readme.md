@@ -38,7 +38,7 @@
 
 ---
 
-### 🎮 Let’s play!
+### 🎮 Let’s play together!
 
 Your goal is to remove the colored squares in each level. Click on the buttons below to issue a new gamepad command. Refresh this page to see the most recent game screen.
 <br /><br />
