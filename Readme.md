@@ -1,10 +1,10 @@
-### Oi, eu sou o Phillipe Martins - aka [Inkasa Dev][youtube] 👋
+### Hi there, I'm Phillipe Martins - aka [Inkasa Dev][youtube] 👋
 
-## Frontend Developer e criador de conteúdo de programação
+## Frontend Developer and content creator
 
-- 💻 Atualmente trabalho no [Pravaler](https://www.pravaler.com.br/)
-- 📚 Sou entusiasta de Tecnologias Web
-- 👨 Fun fact: Eu amo psitacídeos e criar projetos criativos com código.
+- 💻 Currently I work at Pravaler [Pravaler](https://www.pravaler.com.br/)
+- 📚 I’m a web technologies enthusiast
+- 👨 Fun fact: I love Psittacidae and creating creative projects with code.
 
 <div style="display: inline-block"><br>
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
@@ -38,9 +38,10 @@
 
 ---
 
-### 🎮 Vamos jogar?
+### 🎮 Let’s play!
 
-O seu objetivo é eliminar os quadrados coloridos de cada fase. Clique nos botões abaixo para emitir um novo comando de gamepad, atualize esta página para ver a tela do jogo mais recente.<br /><br />
+Your goal is to remove the colored squares in each level. Click on the buttons below to issue a new gamepad command. Refresh this page to see the most recent game screen.
+<br /><br />
 <img src="https://github-readme-backend.onrender.com/api/v1/game/image" width="400"/>
 
 <div style="display: inline-block">
@@ -49,63 +50,62 @@ O seu objetivo é eliminar os quadrados coloridos de cada fase. Clique nos botõ
 
 <br />
 
-<details><summary>Sobre este jogo</summary>
+<details><summary>About this game</summary>
   
-Essa seção foi desenvolvida utilizando alguns conhecimentos que eu adquiri ao longo da minha jornada, onde trabalhei por alguns anos como desenvolvedor de jogos, desenvolvedor Full Stack e também com desenvolvimento de game engines.
+This section was developed using some knowledge that I’ve learned alongside my journey so far, where I worked for some years like a game developer, a fullstack developer and also with game engine development.
 </details>
 
-<details><summary>Instruções</summary>
+<details><summary>Instructions</summary>
 <div style="display: flex; align-items: center; gap: 10px">
-<img src="assets/start.png"> Para passar de fase, você deve terminar a partida no quadrado de Start, que é onde toda fase começa também.
+<img src="assets/start.png"> To pass a level, you have to finish in the Start square, that is where all levels starts.
 </div>
 <div style="display: flex; align-items: center; gap: 10px">
-<img src="assets/char.png"> Esse é você.
+<img src="assets/char.png"> This is you.
 </div>
 <div style="display: flex; align-items: center; gap: 10px">
-<img src="assets/red.png"> Você pode passar 1 vez nesse quadrado.
+<img src="assets/red.png"> You can pass 1 time through this square.
 </div>
 <div style="display: flex; align-items: center; gap: 10px">
-<img src="assets/yellow.png"> Você pode passar 2 vezes nesse quadrado.
+<img src="assets/yellow.png"> You can pass 2 times through this square.
 </div>
 <div style="display: flex; align-items: center; gap: 10px">
-<img src="assets/green.png"> Você pode passar 3 vezes nesse quadrado.
+<img src="assets/green.png"> You can pass 3 times through this square.
 </div>
 <div style="display: flex; align-items: center; gap: 10px">
-<img src="assets/inverse.png"> Move o personagem na direção oposta à que você quer ir.
+<img src="assets/inverse.png"> Moves the character in the opposite direction.
 </div>
 <div style="display: flex; align-items: center; gap: 10px">
-<img src="assets/leap.png"> Te empurra 2 quadrados em uma certa direção.
+<img src="assets/leap.png"> Push you 2 squares in a certain direction.
 </div>
 <div style="display: flex; align-items: center; gap: 10px">
-<img src="assets/teleport.png"> Move o personagem para o outro teleporte na tela (são sempre dois na fase).
+<img src="assets/teleport.png"> Moves the character to another teleport on screen (there are always two in the level).
 </div>
 
 </details>
 
-<details><summary>Estatísticas deste jogo até agora</summary>
+<details><summary>Game Statistics so far</summary>
   <img src="https://github-readme-backend.onrender.com/api/v1/game/status" width="400" />
 </details>
 
-<details><summary>Hall da Fama</summary>
-Lista de usuários que concluiram o jogo acompanhado do número de fases que o jogo tinha naquele momento.
+<details><summary>Hall of fame</summary>
+Users that already finished this game with the number of levels that the game had in that moment.
     <table>
         <tr>
-            <th>Usuário</th>
-            <th>Versão do jogo</th>
+            <th>Users</th>
+            <th>Game Version</th>
         </tr>
         <tr>
             <td><a href="https://github.com/vitor-mat">vitor-mat</a></td>
-            <td>25 fases</td>
+            <td>25 levels</td>
         </tr>
     </table>
 </details>
 
 ---
 
-### 📺 Projetos mais recentes do YouTube
+### 📺 My most recent projects on Youtube
 
 <!-- YOUTUBE:START -->
-
 - [Como fazer um site de notícias em HTML CSS Javascript | Site Clarim Diário](https://github.com/inkasadev/clarim-diario-starter-files)
 - [Como fazer um jogo da velha em Javascript COMPLETO em 45 Minutos](https://github.com/inkasadev/jogo-da-velha-starter-files)
 - [Como fazer um DASHBOARD HTML CSS JAVASCRIPT | Dashboard Covid Brasil](https://github.com/inkasadev/covid-brasil-starter-files)
@@ -113,6 +113,6 @@ Lista de usuários que concluiram o jogo acompanhado do número de fases que o j
 - [Como fazer um projeto Javascript (para iniciantes) | Placa 100 mil inscritos](https://github.com/inkasadev/placa100k-starter-files)
 <!-- YOUTUBE:END -->
 
-➡️ [mais projetos...](https://www.youtube.com/c/InkasaDev/playlists)
+➡️ [more projects...](https://www.youtube.com/c/InkasaDev/playlists)
 
 [youtube]: https://youtube.com/inkasadev/videos
