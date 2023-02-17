@@ -2,21 +2,9 @@
 
 ## Frontend Developer and content creator
 
-- 💻 Currently I work at Pravaler [Pravaler](https://www.pravaler.com.br/)
+- 💻 Currently I work at [Pravaler](https://www.pravaler.com.br/)
 - 📚 I’m a web technologies enthusiast
 - 👨 Fun fact: I love Psittacidae and creating creative projects with code.
-
-<div style="display: inline-block"><br>
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg">
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
-</div>
-
-<br />
 
 <div> 
     <a href="https://www.youtube.com/inkasadev?sub_confirmation=1" target="_blank">
@@ -35,6 +23,21 @@
         <img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" target="_blank">
     </a>
 </div>
+
+#### ⚡ Technologies I love and use
+
+<div style="display: inline-block">
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg">
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg">
+</div>
+
+<br />
 
 ---
 
@@ -103,7 +106,39 @@ Users that already finished this game with the number of levels that the game ha
 
 ---
 
-### 📺 My most recent projects on Youtube
+### 💾 My open source projects
+
+<table>
+  <thead align="center">
+    <tr border: none;>
+      <td><b>📐 Projects</b></td>
+      <td><b>⭐ Stars</b></td>
+      <td><b>📚 Forks</b></td>
+      <td><b>🛎 Issues</b></td>
+      <td><b>📬 Pull requests</b></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/inkasadev/osib-frontend-pt"><b>Open Source Inkasa Dev Bootcamp (PT-BR)</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/inkasadev/osib-frontend-pt?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/inkasadev/osib-frontend-pt?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/inkasadev/osib-frontend-pt?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/inkasadev/osib-frontend-pt?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+	  <tr>
+      <td><a href="https://github.com/inkasadev/studioled"><b>Studio Led</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/inkasadev/studioled?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/inkasadev/studioled?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/inkasadev/studioled?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/inkasadev/studioled?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+  </tbody>
+</table>
+
+---
+
+### 📺 My most recent projects on Youtube (PT-BR)
 
 <!-- YOUTUBE:START -->
 - [Como fazer um site de notícias em HTML CSS Javascript | Site Clarim Diário](https://github.com/inkasadev/clarim-diario-starter-files)
