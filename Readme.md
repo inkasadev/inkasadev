@@ -4,7 +4,7 @@
 
 - 💻 Currently I work at [Pravaler](https://www.pravaler.com.br/)
 - 📚 I’m a web technologies enthusiast
-- 👨 Fun fact: I love Psittacidae and creating creative projects with code.
+- 👨 Fun fact: I love parrots and creating creative projects with code.
 
 <div> 
     <a href="https://www.youtube.com/inkasadev?sub_confirmation=1" target="_blank">
@@ -29,9 +29,9 @@
     -->
 </div>
 
-#### ⚡ Technologies I love and use
+<br />
 
-<div style="display: inline-block">
+#### ⚡ Technologies I love and use
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
@@ -46,11 +46,8 @@
 ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-</div>
 
 <!-- Badges from https://github.com/Ileriayo/markdown-badges -->
-
-<br />
 
 ---
 
@@ -140,7 +137,7 @@ Users that already finished this game with the number of levels that the game ha
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/inkasadev/osib-frontend-pt?style=flat-square&labelColor=343b41"/></td>
     </tr>
 	  <tr>
-      <td><a href="https://github.com/inkasadev/frontend-architecture-basic-example"><b>Frontend Architecture - Basic Example</b></a></td>
+      <td><a href="https://github.com/inkasadev/frontend-architecture-basic-example"><b>Frontend Architecture Basic Example</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/inkasadev/frontend-architecture-basic-example?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/inkasadev/frontend-architecture-basic-example?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/inkasadev/frontend-architecture-basic-example?style=flat-square&labelColor=343b41"/></td>
