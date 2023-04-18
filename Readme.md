@@ -22,20 +22,33 @@
     <a href="https://play.google.com/store/apps/developer?id=Inkasa+Studios" target="_blank">
         <img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" target="_blank">
     </a>
+    <!--
+    <a href="https://play.google.com/store/apps/developer?id=Inkasa+Studios" target="_blank">
+        <img src="https://img.shields.io/badge/-Codecanyon-%23262626?style=for-the-badge&logo=data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLBRYFDQwFDRsUCRAKIB0iIiAREx8kKDQsJBoxJx8fLTEhMTU3LjouIx8/RDM9QzQ5OjcBCgoKDQwNGg8PGjclHyU3Njc3Nzc3NzcrNzcsNzctLTU3MjczLS03NystLSsrNSsrLSs3Kys3Kys3LSs3NTcrLv/AABEIACAAIAMBIgACEQEDEQH/xAAZAAADAQEBAAAAAAAAAAAAAAAFBwgDBgL/xAAtEAAABAQFAgQHAAAAAAAAAAABAgMRAAQFEgYTIUFRFDEHIjJSFSMkQpGx8f/EABYBAQEBAAAAAAAAAAAAAAAAAAIEAP/EABwRAAICAwEBAAAAAAAAAAAAAAECAAMEITFBEf/aAAwDAQACEQMRAD8AdiCCcuQCJFtKGzvADEGCaDX0xLUJO8w9jZqgN24MHAQWrCk2jTllJBPMmAtsLcAbg+o6dngBgWv1muJLmq1L6Ky2weoIpc9z+kA4D8xpomse+E89QCKTtLP1MmDODFJl+kPuOIi4iMLHQA0/sWnUpkZSUOtl5jNpc24BEnYlw7UKf9ZMS2UifbMKZmYNh5GCbFUgE95EqswJA5K9/cZLkOomJElMs3NrxoUxT9hdo9QoYqvEE9ewlTD1VKq9SkVrkumTI3mKUNdfdxHMYdxhIYkD4fPJZZ1O5bjC7ObuBQ9oQ0PEmiErmEpuUbzjZaPHzCCO4cRJxFFEjgcosbmIsjApuXnw+GVVZdiHexP/2Q==&logoColor=white" target="_blank">
+    </a>
+    -->
 </div>
 
 #### ⚡ Technologies I love and use
 
 <div style="display: inline-block">
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg">
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg">
+
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Apollo-GraphQL](https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 </div>
+
+<!-- Badges from https://github.com/Ileriayo/markdown-badges -->
 
 <br />
 
@@ -125,6 +138,13 @@ Users that already finished this game with the number of levels that the game ha
       <td><img alt="Forks" src="https://img.shields.io/github/forks/inkasadev/osib-frontend-pt?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/inkasadev/osib-frontend-pt?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/inkasadev/osib-frontend-pt?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+	  <tr>
+      <td><a href="https://github.com/inkasadev/frontend-architecture-basic-example"><b>Frontend Architecture - Basic Example</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/inkasadev/frontend-architecture-basic-example?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/inkasadev/frontend-architecture-basic-example?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/inkasadev/frontend-architecture-basic-example?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/inkasadev/frontend-architecture-basic-example?style=flat-square&labelColor=343b41"/></td>
     </tr>
 	  <tr>
       <td><a href="https://github.com/inkasadev/studioled"><b>Studio Led</b></a></td>
