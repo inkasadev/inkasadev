@@ -137,6 +137,13 @@ Users that already finished this game with the number of levels that the game ha
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/inkasadev/osib-frontend-pt?style=flat-square&labelColor=343b41"/></td>
     </tr>
 	  <tr>
+      <td><a href="https://github.com/inkasadev/inks2d"><b>inks2d - A free no-dependency Typescript Game Engine designed for developing 2D games</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/inkasadev/inks2d?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/inkasadev/inks2d?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/inkasadev/inks2d?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/inkasadev/inks2d?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+	  <tr>
       <td><a href="https://github.com/inkasadev/frontend-architecture-basic-example"><b>Frontend Architecture Basic Example</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/inkasadev/frontend-architecture-basic-example?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/inkasadev/frontend-architecture-basic-example?style=flat-square&labelColor=343b41"/></td>
