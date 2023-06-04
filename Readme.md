@@ -1,6 +1,6 @@
 ### Hi there, I'm Phillipe Martins - aka [Inkasa Dev][youtube] 👋
 
-## Frontend Developer and content creator
+## Fullstack Developer (FE Heavy) and content creator
 
 - 💻 Currently I work at [Pravaler](https://www.pravaler.com.br/)
 - 📚 I’m a web technologies enthusiast
