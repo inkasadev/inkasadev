@@ -186,13 +186,6 @@ Users that already finished this game with the number of levels that the game ha
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/inkasadev/react-chat?style=flat-square&labelColor=343b41"/></td>
     </tr>
 	  <tr>
-      <td><a href="https://github.com/inkasadev/performance-website"><b>Performance Website - SEO friendly, performance focused website built getting data from a GraphQL query.</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/inkasadev/performance-website?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/inkasadev/performance-website?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/inkasadev/performance-website?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/inkasadev/performance-website?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-	  <tr>
       <td><a href="https://github.com/inkasadev/prova-tecnica-frameplayer"><b>Frame Player</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/inkasadev/prova-tecnica-frameplayer?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/inkasadev/prova-tecnica-frameplayer?style=flat-square&labelColor=343b41"/></td>
