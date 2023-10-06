@@ -16,12 +16,15 @@
     <a href="https://www.linkedin.com/in/phillipe-martins-b75b77228/" target="_blank">
         <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
     </a>
-    <a href="https://t.me/inkasadev" target="_blank">
+    <!-- <a href="https://t.me/inkasadev" target="_blank">
         <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank">
-    </a>
+    </a> -->
     <a href="https://play.google.com/store/apps/developer?id=Inkasa+Studios" target="_blank">
         <img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" target="_blank">
     </a>
+    <!-- <a href="#" target="_blank">
+        <img src="https://img.shields.io/badge/my%20steam%20games-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white" target="_blank">
+    </a> -->
     <!--
     <a href="https://play.google.com/store/apps/developer?id=Inkasa+Studios" target="_blank">
         <img src="https://img.shields.io/badge/-Codecanyon-%23262626?style=for-the-badge&logo=data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLBRYFDQwFDRsUCRAKIB0iIiAREx8kKDQsJBoxJx8fLTEhMTU3LjouIx8/RDM9QzQ5OjcBCgoKDQwNGg8PGjclHyU3Njc3Nzc3NzcrNzcsNzctLTU3MjczLS03NystLSsrNSsrLSs3Kys3Kys3LSs3NTcrLv/AABEIACAAIAMBIgACEQEDEQH/xAAZAAADAQEBAAAAAAAAAAAAAAAFBwgDBgL/xAAtEAAABAQFAgQHAAAAAAAAAAABAgMRAAQFEgYTIUFRFDEHIjJSFSMkQpGx8f/EABYBAQEBAAAAAAAAAAAAAAAAAAIEAP/EABwRAAICAwEBAAAAAAAAAAAAAAECAAMEITFBEf/aAAwDAQACEQMRAD8AdiCCcuQCJFtKGzvADEGCaDX0xLUJO8w9jZqgN24MHAQWrCk2jTllJBPMmAtsLcAbg+o6dngBgWv1muJLmq1L6Ky2weoIpc9z+kA4D8xpomse+E89QCKTtLP1MmDODFJl+kPuOIi4iMLHQA0/sWnUpkZSUOtl5jNpc24BEnYlw7UKf9ZMS2UifbMKZmYNh5GCbFUgE95EqswJA5K9/cZLkOomJElMs3NrxoUxT9hdo9QoYqvEE9ewlTD1VKq9SkVrkumTI3mKUNdfdxHMYdxhIYkD4fPJZZ1O5bjC7ObuBQ9oQ0PEmiErmEpuUbzjZaPHzCCO4cRJxFFEjgcosbmIsjApuXnw+GVVZdiHexP/2Q==&logoColor=white" target="_blank">
@@ -144,6 +147,31 @@ Users that already finished this game with the number of levels that the game ha
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/inkasadev/inks2d?style=flat-square&labelColor=343b41"/></td>
     </tr>
 	  <tr>
+      <td><a href="https://github.com/inkasadev/studioled"><b>Studio Led</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/inkasadev/studioled?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/inkasadev/studioled?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/inkasadev/studioled?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/inkasadev/studioled?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+  </tbody>
+</table>
+
+---
+
+### 👀 Cool projects on this repo
+
+<table>
+  <thead align="center">
+    <tr border: none;>
+      <td><b>📐 Projects</b></td>
+      <td><b>⭐ Stars</b></td>
+      <td><b>📚 Forks</b></td>
+      <td><b>🛎 Issues</b></td>
+      <td><b>📬 Pull requests</b></td>
+    </tr>
+  </thead>
+  <tbody>
+	  <tr>
       <td><a href="https://github.com/inkasadev/frontend-architecture-basic-example"><b>Frontend Architecture Basic Example</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/inkasadev/frontend-architecture-basic-example?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/inkasadev/frontend-architecture-basic-example?style=flat-square&labelColor=343b41"/></td>
@@ -151,11 +179,25 @@ Users that already finished this game with the number of levels that the game ha
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/inkasadev/frontend-architecture-basic-example?style=flat-square&labelColor=343b41"/></td>
     </tr>
 	  <tr>
-      <td><a href="https://github.com/inkasadev/studioled"><b>Studio Led</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/inkasadev/studioled?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/inkasadev/studioled?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/inkasadev/studioled?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/inkasadev/studioled?style=flat-square&labelColor=343b41"/></td>
+      <td><a href="https://github.com/inkasadev/react-chat"><b>Xatty - Chat App made with React</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/inkasadev/react-chat?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/inkasadev/react-chat?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/inkasadev/react-chat?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/inkasadev/react-chat?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+	  <tr>
+      <td><a href="https://github.com/inkasadev/performance-website"><b>Performance Website - SEO friendly, performance focused website built getting data from a GraphQL query.</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/inkasadev/performance-website?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/inkasadev/performance-website?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/inkasadev/performance-website?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/inkasadev/performance-website?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+	  <tr>
+      <td><a href="https://github.com/inkasadev/prova-tecnica-frameplayer"><b>Frame Player</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/inkasadev/prova-tecnica-frameplayer?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/inkasadev/prova-tecnica-frameplayer?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/inkasadev/prova-tecnica-frameplayer?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/inkasadev/prova-tecnica-frameplayer?style=flat-square&labelColor=343b41"/></td>
     </tr>
   </tbody>
 </table>
