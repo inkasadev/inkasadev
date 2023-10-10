@@ -125,31 +125,31 @@ Users that already finished this game with the number of levels that the game ha
   <thead align="center">
     <tr align="center">
       <td><b>📐 Projects</b></td>
-      <td width="70px"><b>⭐ Stars</b></td>
-      <td width="65px"><b>📚 Forks</b></td>
-      <td width="70px"><b>🛎 Issues</b></td>
-      <td width="120px"><b>📬 Pull requests</b></td>
+      <td><b>⭐ Stars</b></td>
+      <td><b>📚 Forks</b></td>
+      <td><b>🛎 Issues</b></td>
+      <td><b>📬 Pull requests</b></td>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td><a href="https://github.com/inkasadev/osib-frontend-pt"><b>Open Source Inkasa Dev Bootcamp (PT-BR)</b></a></td>
-      <td align="center"><img alt="Stars" src="https://img.shields.io/github/stars/inkasadev/osib-frontend-pt?style=flat-square&labelColor=343b41"/></td>
-      <td align="center"><img alt="Forks" src="https://img.shields.io/github/forks/inkasadev/osib-frontend-pt?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/inkasadev/osib-frontend-pt?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/inkasadev/osib-frontend-pt?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/inkasadev/osib-frontend-pt?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/inkasadev/osib-frontend-pt?style=flat-square&labelColor=343b41"/></td>
     </tr>
 	  <tr>
       <td><a href="https://github.com/inkasadev/inks2d"><b>inks2d - A free no-dependency Typescript Game Engine designed for developing 2D games</b></a></td>
-      <td align="center"><img alt="Stars" src="https://img.shields.io/github/stars/inkasadev/inks2d?style=flat-square&labelColor=343b41"/></td>
-      <td align="center"><img alt="Forks" src="https://img.shields.io/github/forks/inkasadev/inks2d?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/inkasadev/inks2d?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/inkasadev/inks2d?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/inkasadev/inks2d?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/inkasadev/inks2d?style=flat-square&labelColor=343b41"/></td>
     </tr>
 	  <tr>
       <td><a href="https://github.com/inkasadev/studioled"><b>Studio Led</b></a></td>
-      <td align="center"><img alt="Stars" src="https://img.shields.io/github/stars/inkasadev/studioled?style=flat-square&labelColor=343b41"/></td>
-      <td align="center"><img alt="Forks" src="https://img.shields.io/github/forks/inkasadev/studioled?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/inkasadev/studioled?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/inkasadev/studioled?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/inkasadev/studioled?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/inkasadev/studioled?style=flat-square&labelColor=343b41"/></td>
     </tr>
