@@ -123,33 +123,33 @@ Users that already finished this game with the number of levels that the game ha
 
 <table>
   <thead align="center">
-    <tr border: none;>
+    <tr align="center">
       <td><b>📐 Projects</b></td>
-      <td><b>⭐ Stars</b></td>
-      <td><b>📚 Forks</b></td>
-      <td><b>🛎 Issues</b></td>
-      <td><b>📬 Pull requests</b></td>
+      <td width="70px"><b>⭐ Stars</b></td>
+      <td width="65px"><b>📚 Forks</b></td>
+      <td width="70px"><b>🛎 Issues</b></td>
+      <td width="120px"><b>📬 Pull requests</b></td>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td><a href="https://github.com/inkasadev/osib-frontend-pt"><b>Open Source Inkasa Dev Bootcamp (PT-BR)</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/inkasadev/osib-frontend-pt?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/inkasadev/osib-frontend-pt?style=flat-square&labelColor=343b41"/></td>
+      <td align="center"><img alt="Stars" src="https://img.shields.io/github/stars/inkasadev/osib-frontend-pt?style=flat-square&labelColor=343b41"/></td>
+      <td align="center"><img alt="Forks" src="https://img.shields.io/github/forks/inkasadev/osib-frontend-pt?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/inkasadev/osib-frontend-pt?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/inkasadev/osib-frontend-pt?style=flat-square&labelColor=343b41"/></td>
     </tr>
 	  <tr>
       <td><a href="https://github.com/inkasadev/inks2d"><b>inks2d - A free no-dependency Typescript Game Engine designed for developing 2D games</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/inkasadev/inks2d?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/inkasadev/inks2d?style=flat-square&labelColor=343b41"/></td>
+      <td align="center"><img alt="Stars" src="https://img.shields.io/github/stars/inkasadev/inks2d?style=flat-square&labelColor=343b41"/></td>
+      <td align="center"><img alt="Forks" src="https://img.shields.io/github/forks/inkasadev/inks2d?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/inkasadev/inks2d?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/inkasadev/inks2d?style=flat-square&labelColor=343b41"/></td>
     </tr>
 	  <tr>
       <td><a href="https://github.com/inkasadev/studioled"><b>Studio Led</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/inkasadev/studioled?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/inkasadev/studioled?style=flat-square&labelColor=343b41"/></td>
+      <td align="center"><img alt="Stars" src="https://img.shields.io/github/stars/inkasadev/studioled?style=flat-square&labelColor=343b41"/></td>
+      <td align="center"><img alt="Forks" src="https://img.shields.io/github/forks/inkasadev/studioled?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/inkasadev/studioled?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/inkasadev/studioled?style=flat-square&labelColor=343b41"/></td>
     </tr>
@@ -162,35 +162,27 @@ Users that already finished this game with the number of levels that the game ha
 
 <table>
   <thead align="center">
-    <tr border: none;>
+    <tr>
       <td><b>📐 Projects</b></td>
-      <td><b>⭐ Stars</b></td>
-      <td><b>📚 Forks</b></td>
-      <td><b>🛎 Issues</b></td>
-      <td><b>📬 Pull requests</b></td>
+      <td width="120px"><b>🔎 Live Preview</b></td>
+      <td><b>📃 Description</b></td>
     </tr>
   </thead>
   <tbody>
 	  <tr>
       <td><a href="https://github.com/inkasadev/frontend-architecture-basic-example"><b>Frontend Architecture Basic Example</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/inkasadev/frontend-architecture-basic-example?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/inkasadev/frontend-architecture-basic-example?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/inkasadev/frontend-architecture-basic-example?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/inkasadev/frontend-architecture-basic-example?style=flat-square&labelColor=343b41"/></td>
+      <td align="center"><a href="https://frontend-architecture-basic-example.surge.sh/" target="_blank"><img src="https://img.shields.io/badge/live-DEMO-3E2869?style=flat-square&labelColor=black" alt="Frontend Architecture Live Demo" /></a></td>
+      <td>Example of what I consider a good frontend architecture for basic projects.</td>
     </tr>
 	  <tr>
       <td><a href="https://github.com/inkasadev/react-chat"><b>Xatty - Chat App made with React</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/inkasadev/react-chat?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/inkasadev/react-chat?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/inkasadev/react-chat?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/inkasadev/react-chat?style=flat-square&labelColor=343b41"/></td>
+      <td align="center">Ask me</td>
+      <td>Chat App with some cool features, like private and public rooms and supporting different message types (text, image and audio).</td>
     </tr>
 	  <tr>
       <td><a href="https://github.com/inkasadev/prova-tecnica-frameplayer"><b>Frame Player</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/inkasadev/prova-tecnica-frameplayer?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/inkasadev/prova-tecnica-frameplayer?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/inkasadev/prova-tecnica-frameplayer?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/inkasadev/prova-tecnica-frameplayer?style=flat-square&labelColor=343b41"/></td>
+      <td align="center"><a href="https://prova-tecnica-frameplayer.surge.sh/" target="_blank"><img src="https://img.shields.io/badge/live-DEMO-3E2869?style=flat-square&labelColor=black" alt="Frame Player Live Demo" /></a></td>
+      <td>React component that acts as a frame player (analogous to a video player).</td>
     </tr>
   </tbody>
 </table>
