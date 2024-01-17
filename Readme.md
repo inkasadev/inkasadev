@@ -174,11 +174,11 @@ Users that already finished this game with the number of levels that the game ha
       <td align="center"><a href="https://frontend-architecture-basic-example.surge.sh/" target="_blank"><img src="https://img.shields.io/badge/live-DEMO-3E2869?style=flat-square&labelColor=black" alt="Frontend Architecture Live Demo" /></a></td>
       <td>Example of what I consider a good frontend architecture for basic projects.</td>
     </tr>
-	  <tr>
+	  <!-- <tr>
       <td><a href="https://github.com/inkasadev/react-chat"><b>Xatty - Chat App made with React</b></a></td>
       <td align="center">Ask me</td>
       <td>Chat App with some cool features, like private and public rooms and supporting different message types (text, image and audio).</td>
-    </tr>
+    </tr> -->
 	  <tr>
       <td><a href="https://github.com/inkasadev/prova-tecnica-frameplayer"><b>Frame Player</b></a></td>
       <td align="center"><a href="https://prova-tecnica-frameplayer.surge.sh/" target="_blank"><img src="https://img.shields.io/badge/live-DEMO-3E2869?style=flat-square&labelColor=black" alt="Frame Player Live Demo" /></a></td>
